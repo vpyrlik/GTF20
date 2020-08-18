@@ -1,8 +1,8 @@
 ---
-title: "Teaching Distant Cources"
+title: "Teaching Distant Courses"
 subtitle: "Doing derivations"
 author: "Vladimir Pyrlik"
-date: "July 29, 2020"
+date: "August 11, 2020"
 output:
   xaringan::moon_reader:
     mathjax: "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_HTMLorMML"
@@ -18,17 +18,15 @@ output:
 class: animated, fadeIn
 ##Outline
 
+###Intro
+
 ###I Technical solutions
- - equipment
- - soft
- - resources
+ - Equipment
+ - Software
+ - Selected resources
 
-</br>
-
-###II Tips & tricks
- - preparing material
- - engaging students
- - giving tasks
+###II Demonstration
+ - Conceptboard in action
 
 ---
 class: section, animated, fadeIn
@@ -46,6 +44,18 @@ class: section, animated, flipInX
 ![](stuff/ipad_pencil.jpg)
 
 ---
+class: section, animated, flipInY
+#Demonstration 1
+
+---
+class: animated, fadeIn
+##Microeconomics I, Session 3
+#Problem 1
+You have been asked to analyze the market for steel. From public sources, you are able to find that last year's price for steel was $20$ USD per ton. At this price, $100$ million tons were sold on the world market. From trade association data, you are able to obtain estimates for their own price elasticities of demand and supply on the world markets $-0.25$ for demand and $+0.5$ for supply. Assume the steel has linear demand and supply curves throughout.
+
+**Part A.** Solve for the equations of demand and supply in this market, and sketch the demand and supply curves.
+
+---
 class: animated, fadeIn 
 ### Tablets & styli
 ##Apple iPad & Pencil
@@ -55,7 +65,7 @@ class: animated, fadeIn
 
 --
 
-##Alternative: tablet/smarphone & a universal stylus
+##Alternative: tablet/smartphone & a universal stylus
  - .pro[as easy to use, almost as easy to setup, much cheaper]
  - .con[cheaper options are not that sensitive]
  
@@ -131,9 +141,9 @@ class: section, animated, flipInY
 ---
 class: animated, fadeIn
 ##Choosing styli 
- - [Android compatible and universal styli](https://www.androidcentral.com/best-stylus-android-phones-and-tablets) .right[.rmk[[The most basic option](https://www.amazon.co.uk/Mixoo-Universal-Capacitive-Tablets-Smartphones/dp/B087J92RXF/ref=sr_1_7?dchild=1&keywords=stylus+for+touchscreen&qid=1595694533&sr=8-7)]]
+ - [Android compatible and universal styli](https://www.androidcentral.com/best-stylus-android-phones-and-tablets) 
  - [More expensive options](https://fixthephoto.com/best-stylus-for-tablets.html)
-
+.right[.rmk[[The most basic option](https://www.amazon.co.uk/Mixoo-Universal-Capacitive-Tablets-Smartphones/dp/B087J92RXF/ref=sr_1_7?dchild=1&keywords=stylus+for+touchscreen&qid=1595694533&sr=8-7)]]
 --
 
 ##Mirroring sofwtware
@@ -147,90 +157,12 @@ class: animated, fadeIn
  .right[.rmk[My choice is [ConceptBoard](https://conceptboard.com/)]]
 
 ---
-class: section, animated, bounceIn
-#Tips & Tricks
-###on organizing material & engaging students
-
----
-class: animated, fadeIn
-###Tips & tricks
-</br>
-##I Prepare in advance
-- **show it, rather than write** everything as the class goes on.
-
-.pro[great for lectures, ] but .con[use with caution on exercise sessions]
-
----
-class: animated, fadeIn
-###Tips & tricks
-</br>
-##II Use chunks
- - break your material down into **logical pieces**,
- - show them **step-by-step**, and
- - focus on the **transitions**.
-
----
-class: animated, fadeIn
-###Tips & tricks
-</br>
-##III Omit some steps
-.right[.rmk[great tool to engage your students!]]
- - stop *before* an important transition and ask **What's next?**
- - or, *after* a non-obvious step, ask **Why is it true?**
- - *make a mistake (or not)* and ask **Agree this is true? Why?**
- - *skip a step (or two)* and ask to help you **fill-in the gap**
-
----
-class: animated, fadeIn
-###Tips & tricks
-</br>
-##IV Save & use the progress
-
- - **don't erase** your board, **don't over-write** your work
- 
- - find soft that allows you to **save, copy and paste**
-
---
- 
- - you can **copy and go back** to ask great questions:
-    - What happens, if I **change the initial values**?
-    - Would **omitting an assumption** be crucial?
-    - **Change the initial conditions to get a different outcome**
-
-.right[.rmk[share your ideas]]
-
----
-class: animated, fadeIn
-###Tips & tricks
-</br>
-##V Use the same approach to giving tasks
-
-Rather than requiring a complicated derivation or calculation, *check if your student can follow the derivation and understands important details*. **Give a (almost) complete result as part of the task**, and ask
-
- - true/false questions
- - to check the assumptions
- - listing the necessary theorems, etc
- - to change the intitial data for a particular result
- - filling-in gaps
- - finding mistakes
-
----
-class: section, animated, flipInY
-##Demonstration
-###of Conceptbaord in action
-</br>
-.right[.rmk[I'll run an actual demonstration of how a prepared in advance material can be shared via Conceptboard. Hopefully, it'll take no more than 5 minutes.]]
-
----
-class: section, animated, bounceIn
-##Wrap-up
-</br>
-.rmk[not sure this is necessary for such a short session... but will do anyways, at least so that it is here, on the slides]
+class: section, animated, flipInX
+#Demonstration 2
 
 ---
 class: section, animated, zoomIn
 ##Best of luck in your teaching!
 </br>
 ###.right[Thank you!]
-
 
